@@ -1,0 +1,7 @@
+name: All_Fools
+version: '${project.version}'
+main: net.lanternmc.all_fools.All_Fools
+description: Fools
+author: SmallXY
+depends:
+  - BungeeManager
